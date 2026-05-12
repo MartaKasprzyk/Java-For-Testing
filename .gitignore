@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Java
+.jar
+
+# Maven
+target/
+
+# VS CODE
+.vscode/
+
+# Environment / Config
+.env
